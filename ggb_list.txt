@@ -1,1 +1,2 @@
 testing; This is a testing GGB file
+Condition for Projection to Lie on the edge of two planes Demo 1; Figure 1: Condition for Projection to Lie on the edge of two planes A
