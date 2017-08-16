@@ -1,4 +1,4 @@
-2D Example; 2D Example; A 2D Example; This is a sequence demo; Click buttons for different parts
+Lsn 2 - Illustration 1; Concept 1: Condition for Projection lying on the Margin Line; Concept 1: Condition for Projection lying on the Margin Line; Temp; Click the Buttons to Change view
 Condition for Projection to Lie on the edge of two planes Demo 1; Demo 1; Figure; Condition for Projection to Lie on the edge of two planes A; Click buttons to change views and move sliders to interact
 testing; GGB Testing; Testing GGB file; This is a testing GGB file; Click buttons for interaction.
 testing2; 1197 x 678; Demo dimension 1197 x 678; This is a file which tries to show what size dimensions is appropiate; Click buttons to change views and use slides to animate
