@@ -1,2 +1,2 @@
-Sunshine_01; Bearing and Angle of Elevation of Sunshine; Bearing and Angle of Elevation of Sunshine; Temp; Slide the change the bearing or elevation
-Sunshine_02; Mock LQ 2 Q18; Mock LQ 2 Q18; Temp; Slide the change the bearing or elevation
+Sunshine_01; Bearing and Angle of Elevation of Sunshine; Bearing and Angle of Elevation of Sunshine; Temp; Slide to change the bearing or elevation
+Paper Folding; Paper Folding; Paper Folding; Temp; Slide to change the bearing or elevation
